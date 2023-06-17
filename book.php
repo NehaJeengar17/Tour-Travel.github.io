@@ -23,7 +23,7 @@
 
     <section class="header">
 
-        <a href="home.php" class="logo"><span id="span">travel</span></a>
+        <a href="index.html" class="logo"><span id="span">travel</span></a>
 
         <nav class="navbar">
             <a href="index.html">home</a>
